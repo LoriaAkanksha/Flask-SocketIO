@@ -1,0 +1,12 @@
+werkzeug
+flask
+flask-socketio
+eventlet
+pymongo
+flask-login
+#pip install pymongo
+#pip install Flask-Login
+#pip install db
+#pip install PyJWT
+#pip install Flask-JWT-Extended
+#pip install flask-cors
